@@ -1,0 +1,9 @@
+adwaita-x-dark-and-light-theme 1.3-1
+granite-bzr r862-1
+ntfs-config 1.0.1-13
+numix-circle-icon-theme-git 0.r2521.bbc736f-1
+numix-icon-theme-git 0.r928.4a4dbd5-1
+pacbackup-git 1.0.3.r15.g19f08bb-1
+prezto-git r1494.f2a826e-1
+xdman 4.7-25
+zuki-themes 52.26875c5-1
